@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/outbox-microservices-project.iml" filepath="$PROJECT_DIR$/outbox-microservices-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reservation-microservice/reservation-microservice.iml" filepath="$PROJECT_DIR$/reservation-microservice/reservation-microservice.iml" />
+    </modules>
+  </component>
+</project>
